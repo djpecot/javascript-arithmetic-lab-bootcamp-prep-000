@@ -16,4 +16,6 @@ function divide(a,b) {
 
 var number = 10
 
-function makeInt
+function makeInt(n){
+  return parseInt(n)
+}
