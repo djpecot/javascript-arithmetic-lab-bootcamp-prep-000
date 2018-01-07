@@ -26,9 +26,10 @@ function inc(n){
 }
 
 function dec(n){
-  return n--
+  n--
+  return n
 }
 
 function preserveDecimal(n){
-  parseFloat(n)
+  return parseFloat(n)
 }
