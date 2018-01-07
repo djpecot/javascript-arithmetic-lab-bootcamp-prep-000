@@ -16,4 +16,4 @@ function divide(a,b) {
 
 var number = 10
 
-function 
+function makeInt
